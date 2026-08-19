@@ -1,7 +1,5 @@
 # Fleet Telemetry 
 
-![CI Pipeline](https://github.com/YourUsername/fleet-telemetry-api/actions/workflows/ci.yml/badge.svg)
-
 ##  Overview
  Fleet Telemetry  is a backend system designed to ingest, process, and analyze high-volume streaming data from IoT sensors in connected vehicles. 
 
